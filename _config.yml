@@ -44,8 +44,6 @@ resources:
     - "/js/scheduleCheckbox.js"
     - "/js/init.js"
 
-
-
 exclude: [vendor]
 
 defaults:
@@ -55,4 +53,4 @@ defaults:
     values:
       layout: "default"
 
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
