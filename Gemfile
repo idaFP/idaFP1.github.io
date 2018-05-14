@@ -8,4 +8,3 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 gem 'rake'
 gem 'github-pages', group: :jekyll_plugins
 gem 'html-proofer'
-gem "minimal-mistakes-jekyll"

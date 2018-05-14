@@ -53,4 +53,4 @@ defaults:
     values:
       layout: "default"
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
