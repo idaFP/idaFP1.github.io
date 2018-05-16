@@ -3,16 +3,16 @@ path:
 navigation:
   -
     name: ma8
-    path: /kurssit/maa8/
+    path: /kurssit/ma8/
   -
     name: 1. Juurifunktiot
-    path: /kurssit/maa8/luku1/
+    path: /kurssit/ma8/luku1/
   -
     name: 2. Eksponenttifunktiot
-    path: /kurssit/maa8/luku2/
+    path: /kurssit/ma8/luku2/
   -
     name: 3. Logaritmifunktiot
-    path: /kurssit/maa8/luku3/
+    path: /kurssit/ma8/luku3/
   -
     name: 4. Käänteisfunktio
-    path: /kurssit/maa8/luku4/
+    path: /kurssit/ma8/luku4/
