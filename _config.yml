@@ -1,6 +1,6 @@
 # Site settings
 title: perusmatikkaa.fi
-backendbaseurl: "https://idafp.github.io/"
+backendbaseurl: "/kurssit/ma1"
 
 # Build settings
 markdown: kramdown
