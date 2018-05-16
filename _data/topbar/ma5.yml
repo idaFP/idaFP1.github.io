@@ -1,0 +1,21 @@
+header:
+path:
+navigation:
+  -
+    name: ma5
+    path: /kurssit/ma5/
+  -
+    name: 1. Etäisyys
+    path: /kurssit/ma5/luku0/
+  -
+    name: 2. Suora
+    path: /kurssit/ma5/luku1/
+  -
+    name: 3. Ympyrä
+    path: /kurssit/ma5/luku2/
+  -
+    name: 4. Paraabeli ja muita pistejoukkoja
+    path: /kurssit/ma5/luku3/
+  -
+    name: 5. Itseisarvoyhtälö ja -epäyhtälö
+    path: /kurssit/ma5/luku4/

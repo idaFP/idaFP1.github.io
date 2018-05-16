@@ -1,0 +1,24 @@
+header:
+path:
+navigation:
+  -
+    name: ma6
+    path: /kurssit/ma6/
+  -
+    name: 1. Derivaatta
+    path: /kurssit/ma6/luku1/
+  -
+    name: 2. Raja-arvot ja jatkuvuus
+    path: /kurssit/ma6/luku2/
+  -
+    name: 3. Rationaalifunktiot
+    path: /kurssit/ma6/luku3/
+  -
+    name: 4. Derivointisääntöjä I
+    path: /kurssit/ma6/luku4/
+  -
+    name: 5. Funktion kulku
+    path: /kurssit/ma6/luku5/
+  -
+    name: 6. Derivointisääntöjä II
+    path: /kurssit/ma6/luku6/

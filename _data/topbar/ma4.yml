@@ -1,0 +1,18 @@
+header:
+path:
+navigation:
+  -
+    name: ma4
+    path: /kurssit/maa4/
+  -
+    name: 1. Vektorit ja <i>xy</i>-koordinaatisto
+    path: /kurssit/ma4/xy-taso/
+  -
+    name: 2. Vektorit ja <i>xyz</i>-koordinaatisto
+    path: /kurssit/ma4/xyz-koordinaatisto/
+  -
+    name: 3. Suorat ja tasot
+    path: /kurssit/ma4/suoratJaTasot/
+  -
+    name: 4. Geometriaa vektoreiden avulla
+    path: /kurssit/ma4/geometriaaVektoreidenAvulla/
