@@ -6,6 +6,7 @@ backendbaseurl: "/kurssit/ma1"
 markdown: kramdown
 gems:
   - jekyll-redirect-from
+future: true
 
 encoding: UTF-8
 sass:
